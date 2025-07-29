@@ -4,10 +4,10 @@ This repository contains projects for Linear and Logistic Regression as part of 
 
 ## Contents
 
-- **LinearRegression - Fathima Khadija Ramzi.html**  
+- **LinearRegression - Fathima Khadija Ramzi.ipynb**  
   Demonstrates linear regression analysis using a fitness activity dataset.
 
-- **LogisticRegression - Fathima Khadija Ramzi.html**  
+- **LogisticRegression - Fathima Khadija Ramzi.ipynb**  
   Demonstrates logistic regression analysis using an HR analytics dataset.
 
 ## Datasets
